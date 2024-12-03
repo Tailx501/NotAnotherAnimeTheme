@@ -4,8 +4,14 @@
 * @version 3.2
 * @description An easily customizable and automatically updating theme
 * @invite FdZhbjY
-* @source https://github.com/puckzxz/NotAnotherAnimeTheme
+* @source https://github.com/Tailx501/NotAnotherAnimeTheme
 */
+
+.message-content {font-size: 120%}
+.message-content {color: black;}
+.message-content {font-family: "FOT-Kurokane Std", FOT-Kurokane Std, Serif;}
+.message-content {line-height: 1.5;}
+.user-name {font: bold 16px/30px FOT-Kurokane Std, serif;}
 
 .appMount_ea7e65 {
   background-image: var(--theme-background-image) !important;
