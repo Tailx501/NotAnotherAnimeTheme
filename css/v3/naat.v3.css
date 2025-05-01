@@ -114,7 +114,7 @@
   }
 
   @keyframes rainbow {
-    0% {
+    100% {
       -webkit-filter: hue-rotate(0);
       -moz-filter: hue-rotate(0);
       -ms-filter: hue-rotate(0);
