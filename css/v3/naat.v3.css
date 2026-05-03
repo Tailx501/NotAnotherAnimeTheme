@@ -128,12 +128,16 @@
   }
 }
 
-.pill_e5445c {
+.wrapper__58105 {
+  overflow: visible !important;
+}
+
+.wrapper__58105.overlay__58105 {
   width: 100% !important;
 }
 
-.wrapper__58105 {
-  overflow: visible !important;
+.overlay__58105 {
+  top: initial !important;
 }
 
 .item__58105 {
@@ -151,9 +155,13 @@
   height: 100% !important;
 }
 
-.pill_e5445c .item__58105:not([style*="height: 8px"]) {
+.wrapper__58105.overlay__58105 .item__58105:not([style*="height: 8px"]) {
   border-color: transparent;
   background-color: initial;
+}
+
+#guild-list-unread-dms .item__58105 {
+  display: none !important;
 }
 
 .stack_dbd263.scroller_ef3116.none_d125d2.scrollerBase_d125d2 {
